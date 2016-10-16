@@ -1,5 +1,7 @@
 # docker-mailpile
-Simple Docker solution for Mailpile
+Very simple Docker solution for Mailpile following the [Installation instructions](https://github.com/mailpile/Mailpile/wiki/Getting-started-on-linux).
+
+
 
 # Usage
 ```
